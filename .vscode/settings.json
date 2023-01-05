@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "yapf",
+    "editor.rulers": [
+        100
+    ],
+    "editor.formatOnSave": true,
+}
